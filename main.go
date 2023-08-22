@@ -4,7 +4,7 @@ import (
 	"flag"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"github.com/terraform-providers/terraform-provider-bitbucket/bitbucket"
+	"github.com/padraic-padraic/terraform-provider-bitbucket/v2/bitbucket"
 )
 
 func main() {
